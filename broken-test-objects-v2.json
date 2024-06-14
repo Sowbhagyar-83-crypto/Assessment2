@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manipur University/a_Chief Vigilance Officer",
+      "brokenLocator": "//div[@id\u003d\u0027leftnav\u0027]/ul/li[8]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Internal Complaints Committee\u0027])[2]/preceding::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Manipur University/a_Chief Vigilance Officer_neighbor.png"
+    }
+  ]
+}
